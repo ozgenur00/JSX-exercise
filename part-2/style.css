@@ -1,0 +1,22 @@
+.tweet {
+    border: 1px solid #e1e8ed;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: #f5f8fa;
+}
+
+.tweet h4 {
+    color: #1da1f2;
+    margin-bottom: 5px;
+}
+
+.tweet p {
+    color: #14171a;
+    margin-bottom: 5px;
+}
+
+.tweet span {
+    font-size: 0.8em;
+    color: #657786;
+}
